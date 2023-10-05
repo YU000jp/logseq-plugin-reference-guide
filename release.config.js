@@ -1,5 +1,5 @@
 
-var PLUGIN_NAME = 'logseq-plugin-short-namespaces'
+var PLUGIN_NAME = 'logseq-plugin-support-reference';
 
 module.exports = {
     branches: ['main'],
@@ -21,4 +21,4 @@ module.exports = {
             failTitle: false,
         }],
     ],
-}
+};

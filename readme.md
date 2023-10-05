@@ -1,10 +1,10 @@
-# Logseq Plugin: *Support reference* 🍰
+# Logseq Plugin: *Support reference*
 
 - Show size of referenced page next to every reference
 
-[![latest release version](https://img.shields.io/github/v/release/YU000jp/logseq-plugin-short-namespaces)](https://github.com/YU000jp/logseq-plugin-short-namespaces/releases)
-[![License](https://img.shields.io/github/license/YU000jp/logseq-plugin-short-namespaces?color=blue)](https://github.com/YU000jp/logseq-plugin-short-namespaces/LICENSE)
-[![Downloads](https://img.shields.io/github/downloads/YU000jp/logseq-plugin-short-namespaces/total.svg)](https://github.com/YU000jp/logseq-plugin-short-namespaces/releases)
+[![latest release version](https://img.shields.io/github/v/release/YU000jp/logseq-plugin-support-reference)](https://github.com/YU000jp/logseq-plugin-support-reference/releases)
+[![License](https://img.shields.io/github/license/YU000jp/logseq-plugin-support-reference?color=blue)](https://github.com/YU000jp/logseq-plugin-support-reference/LICENSE)
+[![Downloads](https://img.shields.io/github/downloads/YU000jp/logseq-plugin-support-reference/total.svg)](https://github.com/YU000jp/logseq-plugin-support-reference/releases)
 <!-- Published 2023/10 -->
 
 ---
@@ -35,7 +35,7 @@
 
 ## Showcase / Questions / Ideas / Help
 
-> Go to the [discussion](https://github.com/YU000jp/logseq-plugin-short-namespaces/discussions) tab to ask and find this kind of things.
+> Go to the [discussion](https://github.com/YU000jp/logseq-plugin-support-reference/discussions) tab to ask and find this kind of things.
 
 ## Author
 
