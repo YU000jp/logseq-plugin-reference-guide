@@ -49,7 +49,7 @@ export const everyReferences = async (refBlock: HTMLElement) => {
     supportRef.appendChild(spanEle);
     refBlock.parentElement?.appendChild(supportRef);
     refBlock.dataset.checkedReference = "true";
-    supportRef.title = "By \"Support reference\" plugin";
+    supportRef.title = "By \"Reference guide\" plugin";
 };
 
 const getChildLength = (blockChildrenEntity: BlockEntity[], blockChildrenByteLength: number, blockChildrenLineLength: number, blockChildrenLength: number) => {
