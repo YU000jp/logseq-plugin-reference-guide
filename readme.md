@@ -9,7 +9,7 @@
 
 ---
 
-## Features
+## Feature
 
 - Helps estimate link size
 
@@ -21,7 +21,7 @@
 
 ## Getting Started
 
-### Install from Logseq Marketplace
+### Install from Logseq Marketplace (Come soon 🚧🚧)
 
 - Press [`---`] on the top right toolbar to open [`Plugins`]
 - Select `Marketplace`
