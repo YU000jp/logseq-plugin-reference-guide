@@ -1,12 +1,12 @@
 {
-    "name": "logseq-plugin-support-reference",
+    "name": "logseq-plugin-reference-guide",
     "description": "Show size of referenced page next to every reference.",
-    "repository": "https://github.com/YU000jp/logseq-plugin-support-reference.git",
+    "repository": "https://github.com/YU000jp/logseq-plugin-reference-guide.git",
     "author": "YU000jp",
     "license": "MIT",
     "logseq": {
-        "id": "support-reference",
-        "title": "Support reference",
+        "id": "reference-guide",
+        "title": "Reference guide",
         "icon": "./icon.svg",
         "main": "./dist/index.html"
     },

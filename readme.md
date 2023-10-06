@@ -1,10 +1,10 @@
-# Logseq Plugin: *Support reference*
+# Logseq Plugin: *Reference guide*
 
-- Show size of referenced page next to every reference
+- Show size of referenced page next to every reference.
 
-[![latest release version](https://img.shields.io/github/v/release/YU000jp/logseq-plugin-support-reference)](https://github.com/YU000jp/logseq-plugin-support-reference/releases)
-[![License](https://img.shields.io/github/license/YU000jp/logseq-plugin-support-reference?color=blue)](https://github.com/YU000jp/logseq-plugin-support-reference/LICENSE)
-[![Downloads](https://img.shields.io/github/downloads/YU000jp/logseq-plugin-support-reference/total.svg)](https://github.com/YU000jp/logseq-plugin-support-reference/releases)
+[![latest release version](https://img.shields.io/github/v/release/YU000jp/logseq-plugin-reference-guide)](https://github.com/YU000jp/logseq-plugin-reference-guide/releases)
+[![License](https://img.shields.io/github/license/YU000jp/logseq-plugin-reference-guide?color=blue)](https://github.com/YU000jp/logseq-plugin-reference-guide/LICENSE)
+[![Downloads](https://img.shields.io/github/downloads/YU000jp/logseq-plugin-reference-guide/total.svg)](https://github.com/YU000jp/logseq-plugin-reference-guide/releases)
 <!-- Published 2023/10 -->
 
 ---
@@ -35,7 +35,7 @@
 
 ## Showcase / Questions / Ideas / Help
 
-> Go to the [discussion](https://github.com/YU000jp/logseq-plugin-support-reference/discussions) tab to ask and find this kind of things.
+> Go to the [discussion](https://github.com/YU000jp/logseq-plugin-reference-guide/discussions) tab to ask and find this kind of things.
 
 ## Author
 

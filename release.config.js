@@ -1,5 +1,5 @@
 
-var PLUGIN_NAME = 'logseq-plugin-support-reference';
+var PLUGIN_NAME = 'logseq-plugin-reference-guide';
 
 module.exports = {
     branches: ['main'],

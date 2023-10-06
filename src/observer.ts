@@ -1,4 +1,4 @@
-import { everyReferences } from './supportReference';
+import { everyReferences } from './referenceGuide';
 
 const callback = () => {
     observer.disconnect();
