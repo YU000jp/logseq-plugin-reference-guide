@@ -2,4 +2,7 @@ div#root main div:is(#main-content-container, #right-sidebar) span.block-ref>div
     opacity: 0.6;
     font-size: smaller;
     float: right;
+    border-radius: 2em;
+    background: var(--ls-secondary-background-color);
+    padding: 0.1em 0.5em;
 }
