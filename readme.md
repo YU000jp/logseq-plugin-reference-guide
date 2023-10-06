@@ -13,7 +13,7 @@
 
 - Helps estimate link size
 
-![スクリーンショット 2023-10-06 222845](https://github.com/YU000jp/logseq-plugin-reference-guide/assets/111847207/7228722f-91c7-4684-8ee1-fd04703a11db)
+![スクリーンショット 2023-10-06 222845](https://github.com/YU000jp/logseq-plugin-reference-guide/assets/111847207/1a4c441b-8e17-479c-9ee9-6c70a3a1d9f8)
 
 ###
 
