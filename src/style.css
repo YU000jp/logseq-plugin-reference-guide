@@ -1,0 +1,5 @@
+div#root main div:is(#main-content-container, #right-sidebar) span.block-ref>div.supportRef {
+    opacity: 0.6;
+    font-size: smaller;
+    float: right;
+}
