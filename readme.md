@@ -1,6 +1,6 @@
 # Logseq Plugin: *Reference guide*
 
-- Show size of referenced page next to every reference.
+- Show size of referenced block next to every reference.
 
 [![latest release version](https://img.shields.io/github/v/release/YU000jp/logseq-plugin-reference-guide)](https://github.com/YU000jp/logseq-plugin-reference-guide/releases)
 [![License](https://img.shields.io/github/license/YU000jp/logseq-plugin-reference-guide?color=blue)](https://github.com/YU000jp/logseq-plugin-reference-guide/LICENSE)
@@ -30,8 +30,11 @@
 ### Usage
 
 - When this plugin install, the style be applied to every page , the right sidebar.
+- Put a reference on any block
 
 ### Plugin Settings
+
+> [Document here](https://github.com/YU000jp/logseq-plugin-reference-guide/wiki/Plugin-Settings)
 
 ---
 
