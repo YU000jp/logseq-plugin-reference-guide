@@ -5,7 +5,7 @@
 [![latest release version](https://img.shields.io/github/v/release/YU000jp/logseq-plugin-reference-guide)](https://github.com/YU000jp/logseq-plugin-reference-guide/releases)
 [![License](https://img.shields.io/github/license/YU000jp/logseq-plugin-reference-guide?color=blue)](https://github.com/YU000jp/logseq-plugin-reference-guide/LICENSE)
 [![Downloads](https://img.shields.io/github/downloads/YU000jp/logseq-plugin-reference-guide/total.svg)](https://github.com/YU000jp/logseq-plugin-reference-guide/releases)
-<!-- Published 2023/10 -->
+ Published 2023/10/10
 
 ---
 
@@ -23,7 +23,7 @@
 
 ## Getting Started
 
-### Install from Logseq Marketplace (Come soon 🚧🚧)
+### Install from Logseq Marketplace
 
 - Press [`---`] on the top right toolbar to open [`Plugins`]
 - Select `Marketplace`
