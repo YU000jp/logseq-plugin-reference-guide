@@ -29,7 +29,7 @@
 
 ### Usage
 
-- When this plugin install, the style be applied to every page , the right sidebar.
+- The style be applied to every page , the right sidebar.
 - Put a reference on any block
 
 ### Plugin Settings
