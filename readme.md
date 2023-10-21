@@ -1,6 +1,6 @@
 # Logseq Plugin: *Reference guide*
 
-- Show size of referenced block next to every reference.
+- Displays the size of a block reference.
 
 [![latest release version](https://img.shields.io/github/v/release/YU000jp/logseq-plugin-reference-guide)](https://github.com/YU000jp/logseq-plugin-reference-guide/releases)
 [![License](https://img.shields.io/github/license/YU000jp/logseq-plugin-reference-guide?color=blue)](https://github.com/YU000jp/logseq-plugin-reference-guide/LICENSE)
