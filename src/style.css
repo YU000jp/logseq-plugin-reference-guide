@@ -3,6 +3,6 @@ body>div#root>div>main>div#app-container div:is(#main-content-container, #right-
     font-size: smaller;
     float: right;
     border-radius: 2em;
-    background: var(--ls-secondary-background-color);
+    background-color: var(--ls-secondary-background-color);
     padding: 0.1em 0.5em;
 }
