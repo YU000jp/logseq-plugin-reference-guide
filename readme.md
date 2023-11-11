@@ -37,10 +37,12 @@ Install from Logseq Marketplace
 
 > Go to the [discussion](https://github.com/YU000jp/logseq-plugin-reference-guide/discussions) tab to ask and find this kind of things.
 
+1. This plugin relies on Logseq's DOM structure. If the DOM structure changes due to a Logseq version update, styles may not be applied. We will adjust the CSS to deal with it. If you notice something, please raise an issue.
+
 ## Credit
 
 Icon > [icooon-mono.com](https://icooon-mono.com/11110-%e3%83%9e%e3%83%bc%e3%82%ab%e3%83%bc%e3%81%ae%e3%83%a9%e3%82%a4%e3%83%88%e3%83%80%e3%82%a6%e3%83%b3%e3%82%a2%e3%82%a4%e3%82%b3%e3%83%b3%e7%b4%a0%e6%9d%903/)
 
-Author > [YU000jp (GitHub)](https://github.com/YU000jp)
+Author > [@YU000jp](https://github.com/YU000jp)
 
 <a href="https://www.buymeacoffee.com/yu000japan" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="🍌Buy Me A Coffee" style="height: 42px;width: 152px" ></a>
