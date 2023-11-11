@@ -35,10 +35,12 @@ Logseq マーケットプレイスからインストール
 
 > 質問や関連情報を求めるには[ディスカッション](https://github.com/YU000jp/logseq-plugin-reference-guide/discussions)タブに移動してください。
 
+1. このプラグインは、Logseq の DOM 構造に依存しています。Logseq のバージョン更新により DOM 構造が変更された場合、スタイルが適用されない場合があります。CSSを調整して対応します。何か気づいたら、issueを提起してください。
+
 ## クレジット
 
 アイコン > [icooon-mono.com](https://icooon-mono.com/11110-%e3%83%9e%e3%83%bc%e3%82%ab%e3%83%bc%e3%81%ae%e3%83%a9%e3%82%a4%e3%83%88%e3%83%80%e3%82%a6%e3%83%b3%e3%82%a2%e3%82%a4%e3%82%b3%e3%83%b3%e7%b4%a0%e6%9d%903/)
 
-製作者 > [YU000jp(GitHub)](https://github.com/YU000jp)
+製作者 > [@YU000jp](https://github.com/YU000jp)
 
 <a href="https://www.buymeacoffee.com/yu000japan" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="🍌Buy Me A Coffee 製作者にコーヒーを奢ってください!" style="height: 42px;width: 152px" ></a>
