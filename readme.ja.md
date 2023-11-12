@@ -1,4 +1,4 @@
-# Logseq プラグイン: *Reference guide*
+# Logseq プラグイン: *More Reference*
 
 各ブロック参照にサイズを表示するプラグイン [English](https://github.com/YU000jp/logseq-plugin-reference-guide) | [日本語](https://github.com/YU000jp/logseq-plugin-reference-guide/blob/main/readme.ja.md)
 

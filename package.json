@@ -6,7 +6,7 @@
     "license": "MIT",
     "logseq": {
         "id": "reference-guide",
-        "title": "Reference guide",
+        "title": "More Reference",
         "icon": "./icon.svg",
         "main": "./dist/index.html"
     },

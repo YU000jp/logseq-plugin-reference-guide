@@ -1,4 +1,4 @@
-# Logseq Plugin: *Reference guide*
+# Logseq Plugin: *More Reference*
 
 [English](https://github.com/YU000jp/logseq-plugin-reference-guide) | [日本語](https://github.com/YU000jp/logseq-plugin-reference-guide/blob/main/readme.ja.md)
 
