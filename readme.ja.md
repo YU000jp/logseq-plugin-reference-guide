@@ -1,11 +1,13 @@
 # Logseq プラグイン: *More Reference*
 
-各ブロック参照にサイズを表示するプラグイン [English](https://github.com/YU000jp/logseq-plugin-reference-guide) | [日本語](https://github.com/YU000jp/logseq-plugin-reference-guide/blob/main/readme.ja.md)
+各ブロック参照にサイズを表示するプラグイン
+<div align="right">
 
-[![最新リリースバージョン](https://img.shields.io/github/v/release/YU000jp/logseq-plugin-reference-guide)](https://github.com/YU000jp/logseq-plugin-reference-guide/releases)
+[English](https://github.com/YU000jp/logseq-plugin-reference-guide)/[日本語](https://github.com/YU000jp/logseq-plugin-reference-guide/blob/main/readme.ja.md) [![最新リリースバージョン](https://img.shields.io/github/v/release/YU000jp/logseq-plugin-reference-guide)](https://github.com/YU000jp/logseq-plugin-reference-guide/releases)
 [![ライセンス](https://img.shields.io/github/license/YU000jp/logseq-plugin-reference-guide?color=blue)](https://github.com/YU000jp/logseq-plugin-reference-guide/LICENSE)
 [![ダウンロード数](https://img.shields.io/github/downloads/YU000jp/logseq-plugin-reference-guide/total.svg)](https://github.com/YU000jp/logseq-plugin-reference-guide/releases)
-  公開日: 2023/10/10
+  公開日: 2023/10/10 <a href="https://www.buymeacoffee.com/yu000japan"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a pizza&emoji=🍕&slug=yu000japan&button_colour=FFDD00&font_colour=000000&font_family=Poppins&outline_colour=000000&coffee_colour=ffffff" /></a>
+</div>
 
 ## 概要
 
@@ -39,8 +41,5 @@ Logseq マーケットプレイスからインストール
 
 ## クレジット
 
-アイコン > [icooon-mono.com](https://icooon-mono.com/11110-%e3%83%9e%e3%83%bc%e3%82%ab%e3%83%bc%e3%81%ae%e3%83%a9%e3%82%a4%e3%83%88%e3%83%80%e3%82%a6%e3%83%b3%e3%82%a2%e3%82%a4%e3%82%b3%e3%83%b3%e7%b4%a0%e6%9d%903/)
-
-製作者 > [@YU000jp](https://github.com/YU000jp)
-
-<a href="https://www.buymeacoffee.com/yu000japan"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a pizza&emoji=🍕&slug=yu000japan&button_colour=FFDD00&font_colour=000000&font_family=Poppins&outline_colour=000000&coffee_colour=ffffff" /></a>
+- アイコン > [icooon-mono.com](https://icooon-mono.com/11110-%e3%83%9e%e3%83%bc%e3%82%ab%e3%83%bc%e3%81%ae%e3%83%a9%e3%82%a4%e3%83%88%e3%83%80%e3%82%a6%e3%83%b3%e3%82%a2%e3%82%a4%e3%82%b3%e3%83%b3%e7%b4%a0%e6%9d%903/)
+- 製作者 > [@YU000jp](https://github.com/YU000jp)
