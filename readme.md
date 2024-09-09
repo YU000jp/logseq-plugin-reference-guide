@@ -2,6 +2,9 @@
 
 - Display the sizes of each block reference.
 
+> [!WARNING]
+This plugin does not work with Logseq db version.
+
 <div align="right">
 
 [English](https://github.com/YU000jp/logseq-plugin-reference-guide)/[日本語](https://github.com/YU000jp/logseq-plugin-reference-guide/blob/main/readme.ja.md) [![latest release version](https://img.shields.io/github/v/release/YU000jp/logseq-plugin-reference-guide)](https://github.com/YU000jp/logseq-plugin-reference-guide/releases)

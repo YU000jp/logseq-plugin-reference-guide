@@ -1,6 +1,10 @@
 # Logseq プラグイン: *More Reference*
 
 各ブロック参照にサイズを表示するプラグイン
+
+> [!WARNING]
+>このプラグインはLogseq dbバージョンでは動作しません。
+
 <div align="right">
 
 [English](https://github.com/YU000jp/logseq-plugin-reference-guide)/[日本語](https://github.com/YU000jp/logseq-plugin-reference-guide/blob/main/readme.ja.md) [![最新リリースバージョン](https://img.shields.io/github/v/release/YU000jp/logseq-plugin-reference-guide)](https://github.com/YU000jp/logseq-plugin-reference-guide/releases)
