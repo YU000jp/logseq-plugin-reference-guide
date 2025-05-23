@@ -22,9 +22,9 @@ This plugin does not work with Logseq db version.
 
 ## Getting Started
 
-Install from Logseq Marketplace
+~~Install from Logseq Marketplace~~
 
-   - Press [`---`] on the top right toolbar to open [`Plugins`]. Select `Marketplace`. Type `reference` in the search field, select it from the search results and install.
+   - ~~Press [`---`] on the top right toolbar to open [`Plugins`]. Select `Marketplace`. Type `reference` in the search field, select it from the search results and install.~~
 
 ### Usage
 
